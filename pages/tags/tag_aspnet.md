@@ -1,8 +1,8 @@
 ---
-title: "Content types pages"
-tagName: content_types
+title: "ASP.NET Pages"
 search: exclude
-permalink: tag_content_types.html
+tagName: mobile
+permalink: tag_aspnet.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

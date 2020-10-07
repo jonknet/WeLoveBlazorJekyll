@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "C# Pages"
+tagName: csharp
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_csharp.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

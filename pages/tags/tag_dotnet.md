@@ -1,8 +1,8 @@
 ---
-title: "Formatting pages"
-tagName: formatting
+title: ".NET pages"
+tagName: dotnet
 search: exclude
-permalink: tag_formatting.html
+permalink: tag_dotnet.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

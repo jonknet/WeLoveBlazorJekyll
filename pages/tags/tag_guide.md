@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "Guides"
+tagName: guide
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_guide.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

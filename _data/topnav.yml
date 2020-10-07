@@ -5,18 +5,10 @@ topnav:
   items:
     - title: Blog
       url: /news
-
+    - title: Forums
+      url: https://forums.weloveblazor.com/
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Blazor Help
-      folderitems:
-        - title: We Love Blazor Forums
-          url: https://forums.weloveblazor.com/
-    - title: Resources
-      folderitems:
-        - title: Microsoft Blazor Documentation
-          external_url: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
-        - title: Awesome Blazor (Adrien Torris)
-          external_url: https://github.com/AdrienTorris/awesome-blazor
+

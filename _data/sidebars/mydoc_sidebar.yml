@@ -38,7 +38,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Hosting Models
+    - title: WebAssembly vs Server Hosted
       url: /hostingmodels.html
       output: web, pdf
 
@@ -78,7 +78,11 @@ entries:
       url: /todolist.html
       output: web, pdf
 
-  - title: Project Analysis
+  - title: Blazor Recipes
+    output: web, pdf
+    folderitems:
+
+  - title: Project Teardowns
     output: web, pdf
     folderitems:
 
@@ -110,6 +114,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Microsoft Blazor Documentation
+      external_url: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+      output: web, pdf
+
     - title: Awesome Blazor
       external_url: https://github.com/AdrienTorris/awesome-blazor
       output: web, pdf
@@ -121,8 +129,15 @@ entries:
     - title: Stack Overflow
       external_url: https://stackoverflow.com/questions/tagged/blazor
       output: web, pdf
+      
+  - title: Other Resources
+    output: web, pdf
+    folderitems:
+
+    - title: Books
+      url: /books.html
+      output: web, pdf
 
     - title: More Links
       url: /morelinks.html
       output: web, pdf
-      

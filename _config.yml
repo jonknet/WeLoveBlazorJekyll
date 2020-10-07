@@ -83,7 +83,6 @@ defaults:
       layout: "page"
       search: true
       tooltip: true
-
   -
     scope:
       path: ""
@@ -95,6 +94,15 @@ defaults:
       search: true
       hide_sidebar: true
       topnav: topnav
+  -
+    scope:
+      path: "pages/tags"
+      type: "pages"
+    values:
+      comments: false
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      hide_sidebar: true
 
 # these are defaults used for the frontmatter for these file types
 

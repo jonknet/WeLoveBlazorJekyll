@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Microsoft"
+tagName: microsoft
 search: exclude
-permalink: tag_news.html
+permalink: tag_microsoft.html
 hide_sidebar: true 
 folder: tags
 ---

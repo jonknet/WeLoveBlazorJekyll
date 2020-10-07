@@ -6,7 +6,7 @@ topnav:
     - title: Blog
       url: /news
     - title: Forums
-      url: https://forums.weloveblazor.com/
+      external_url: https://forums.weloveblazor.com/
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns

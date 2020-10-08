@@ -33,6 +33,10 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
+include:
+   - _framework
+   - _bin
+
 feedback_subject_line: We Love Blazor Feedback
 
 feedback_email: jonknet@gmail.com

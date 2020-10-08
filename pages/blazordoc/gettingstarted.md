@@ -21,6 +21,8 @@ In order to use Blazor, you need to have the following installed:
 
 If using Visual Studio Community, you can create a new Blazor project using the wizard. It will ask you if the project should be WebAssembly or Server. We'll cover these in a bit.
 
+{% include image.html file="screenshots/vstudio_project.png" %}
+
 If using Visual Studio Code or another IDE, you can use the command line tool ```dotnet``` within the empty project directory like so:
 
 ```dotnet new blazorwasm``` for WebAssembly or ```dotnet new blazorserver``` for Server Hosted
@@ -30,8 +32,6 @@ This will create the necessary files including some simple examples.
 ## Run the Project
 
 In Visual Studio Community, all you need to do is click the Play button and a new web browser will pop up with the site.
-
-{% include image.html file="screenshots/vstudio_project.png" %}
 
 In Visual Studio Code, you'll need to run the command ```dotnet run``` which will first build then run the project. You'll need to open a web browser manually and navigate to the URL provided in the terminal output.
 

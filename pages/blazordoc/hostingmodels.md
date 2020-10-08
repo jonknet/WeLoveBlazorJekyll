@@ -9,7 +9,7 @@ permalink: hostingmodels.html
 folder: blazordoc
 ---
 
-So you may be wondering what the difference between WebAssembly and Server Hosted is, so before we go any further I'll explain briefly.
+You may be wondering what the difference between WebAssembly and Server Hosted is, so before we go any further I'll explain briefly.
 
 ## WebAssembly
 
@@ -21,8 +21,8 @@ Server Hosted mode runs the code on a central server instead of in the client's 
 
 ## Summary
 
-The important thing to note is a WASM app can be made a Server app and vice versa with little change to the code and no difference seen by the end user.
+The important thing to note is a WASM app can be made a Server app and vice versa with little change to the code and little to no difference "felt" by the end user usually.
 
-WebAssembly can be more responsive but requires more legwork if having to use backend services.
+WebAssembly can be more responsive but requires more legwork if having to use backend APIs.
 
-Server is more secure and requires less setup to use backend services, but may be less responsive in high traffic situations (like fast paced games or a bad network connection).
+Server is more secure and requires less setup to use backend services, but may be less responsive in certain situations (like fast paced games or a bad network connection).

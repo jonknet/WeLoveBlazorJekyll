@@ -78,21 +78,37 @@ entries:
       url: /todolist.html
       output: web, pdf
 
-  - title: Blazor Recipes
+    - title: Examples App
+      external_url: https://jonknet.github.io/WeLoveBlazorExampleApp/
+      output: web, pdf
+
+  - title: Component Libraries
     output: web, pdf
     folderitems:
 
-  - title: Project Teardowns
+    - title: MatBlazor
+      external_url: https://matblazor.com/
+      output: web, pdf
+
+    - title: Radzen
+      external_url: https://blazor.radzen.com/
+      output: web, pdf
+
+    - title: Blazorise
+      external_url: https://www.blazorise.com/
+      output: web, pdf
+
+    - title: Ant Design Blazor
+      external_url: https://ant-design-blazor.github.io/en-US/components/overview
+      output: web
+
+    - title: SyncFusion (Free for small orgs)
+      external_url: https://blazor.syncfusion.com/
+      output: web
+
+  - title: Project Dissections
     output: web, pdf
     folderitems:
-
-    - title: Asteroids WASM
-      url: /asteroids.html
-      output: web, pdf
-
-    - title: Chip-8 Emulator
-      url: /chip8.html
-      output: web, pdf
 
   - title: Exercises
     output: web, pdf
@@ -101,20 +117,12 @@ entries:
     - title: Level I
       url: /exercises_I.html
       output: web, pdf
-  
-    - title: Level II
-      url: /exercises_II.html
-      output: web, pdf
-  
-    - title: Level III
-      url: /exercises_III.html
-      output: web, pdf
 
   - title: Community Resources
     output: web, pdf
     folderitems:
 
-    - title: Microsoft Blazor Documentation
+    - title: Microsoft Blazor Official Site
       external_url: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
       output: web, pdf
 

@@ -146,8 +146,8 @@ entries:
       url: /books.html
       output: web, pdf
 
-    - title: Affiliate Links
-      url: /affiliatelinks.html
+    - title: Cloud Providers
+      url: /providers.html
       output: web
 
     - title: More Links

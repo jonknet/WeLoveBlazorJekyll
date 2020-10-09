@@ -11,7 +11,7 @@ folder: blazordoc
 
 ## What are Components?
 
-A Blazor Component is a .razor file containing HTML and CSharp code acting on the HTML. They can be considered the legos with which we build Blazor apps. 
+A Blazor Component is a .razor file containing HTML and C# code acting on the HTML. They can be considered the legos with which we build Blazor apps. 
 
 ## Description
 

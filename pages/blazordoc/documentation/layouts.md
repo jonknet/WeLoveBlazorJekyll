@@ -23,7 +23,7 @@ A layout must inherit (using @inherits) from LayoutComponentBase class and conta
 
 Any component can be defined to belong to a layout via the ```@layout``` directive at the top of the component file. 
 
-```
+``` csharp
 Component.razor
 
 @layout MyLayout
@@ -32,7 +32,7 @@ Component.razor
 
 And here is what MyLayout looks like
 
-```
+``` csharp
 MyLayout.razor
 
 @inherits LayoutComponentBase
@@ -41,7 +41,7 @@ MyLayout.razor
 
 The final output when Component.razor is used will be
 
-```
+``` html
 <div><h2>Hi there!</h2></div>
 ```
 

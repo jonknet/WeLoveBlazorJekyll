@@ -1,5 +1,5 @@
 ---
-title: 
+title: A website devoted to Blazor, Microsoft's SPA Framework.
 keywords: weloveblazor home
 tags: 
 sidebar: mydoc_sidebar

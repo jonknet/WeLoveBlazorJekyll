@@ -15,14 +15,14 @@ Blazor leverages Razor pages for components and layouts so it's important to und
 ## Implicit and Explicit Expressions
 
 The expression immediately following the @ is executed as C# and is *implicit*.
-```
+``` html
 <div>@Name</div>
 <div>@Add(5)</div>
 ```
 @Name would return the string value of Name and @Add(5) would return the value of the function.
 
 If parentheses are involved then the expression is said to be *explicit*.
-```
+``` html
 <div>@(5 - 2)</div>
 ```
 In this case, it would return 3.
@@ -33,7 +33,7 @@ Implicit expressions don't allow spaces while explicit ones do.
 
 You can execute code without rendering it using code blocks
 
-```
+``` csharp
 @{ name = "Jon" }
 <h2>@Name</h2>
 ```
@@ -44,7 +44,7 @@ To use a conditional like if, place a @ in front like so and surround the output
 
 Here are some examples.
 
-```
+``` csharp
 @if (val == 1) {
     <p>Hi!</p>
 }
@@ -74,7 +74,7 @@ Here are some examples.
 
 You can, of course, also use looping constructs.
 
-```
+``` csharp
 @for (var i = 0; i < 5; i++){
     <p>Hello there</p>
 }

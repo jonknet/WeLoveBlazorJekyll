@@ -78,6 +78,10 @@ entries:
       url: /todolist.html
       output: web, pdf
 
+    - title: Reddit OAUTH2 Api
+      url: /redditex.html
+      output: web, pdf
+
     - title: Examples App
       external_url: https://jonknet.github.io/WeLoveBlazorExampleApp/
       output: web, pdf

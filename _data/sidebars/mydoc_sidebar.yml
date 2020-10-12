@@ -83,7 +83,7 @@ entries:
       output: web, pdf
 
     - title: Examples Links to Apps
-      external_url: /applinks.html
+      url: /applinks.html
       output: web, pdf
 
   - title: Component Libraries

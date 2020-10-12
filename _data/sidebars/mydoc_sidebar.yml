@@ -82,8 +82,8 @@ entries:
       url: /redditex.html
       output: web, pdf
 
-    - title: Examples App
-      external_url: https://jonknet.github.io/WeLoveBlazorExampleApp/
+    - title: Examples Links to Apps
+      external_url: /applinks.html
       output: web, pdf
 
   - title: Component Libraries

@@ -43,7 +43,8 @@ A basic Reddit API example that uses OAUTH2 to authenticate.
 
         var plainTextBytes = System.Text.Encoding.ASCII.GetBytes(appId + ":" + secretId);
 
-        HttpRequestMessage httpRequest = new HttpRequestMessage(HttpMethod.Post, "https://www.reddit.com/api/v1/access_token");
+        HttpRequestMessage httpRequest = new HttpRequestMessage(HttpMethod.Post, 
+                                                                "https://www.reddit.com/api/v1/access_token");
         Dictionary<string, string> param = new Dictionary<string, string>();
         param.Add("grant_type", "client_credentials");
         httpRequest.Content = new FormUrlEncodedContent(param);

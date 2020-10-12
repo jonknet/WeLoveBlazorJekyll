@@ -9,12 +9,12 @@ permalink: applinks.html
 folder: blazordoc
 ---
 
-(Counter)[https://jonknet.github.io/WeLoveBlazorExampleApp/]
+[Counter](https://jonknet.github.io/WeLoveBlazorExampleApp/)
 
-(Todo List)[https://jonknet.github.io/WeLoveBlazorExampleApp/]
+[Todo List](https://jonknet.github.io/WeLoveBlazorExampleApp/)
 
-(Form Submission)[https://jonknet.github.io/WeLoveBlazorExampleApp/]
+[Form Submission](https://jonknet.github.io/WeLoveBlazorExampleApp/)
 
-(Weather App)[https://jonknet.github.io/WeLoveBlazorExampleApp/]
+[Weather App](https://jonknet.github.io/WeLoveBlazorExampleApp/)
 
-(Reddit API)[https://jonknet.github.io/BlazingReddit/]
+[Reddit API](https://jonknet.github.io/BlazingReddit/)
